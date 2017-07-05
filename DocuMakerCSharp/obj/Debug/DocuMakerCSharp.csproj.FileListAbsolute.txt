@@ -1,0 +1,6 @@
+C:\Users\MikeR\Dropbox\Github Projects\DocuMakerC#\DocuMakerCSharp\DocuMakerCSharp\bin\Debug\DocuMakerCSharp.exe.config
+C:\Users\MikeR\Dropbox\Github Projects\DocuMakerC#\DocuMakerCSharp\DocuMakerCSharp\bin\Debug\DocuMakerCSharp.exe
+C:\Users\MikeR\Dropbox\Github Projects\DocuMakerC#\DocuMakerCSharp\DocuMakerCSharp\bin\Debug\DocuMakerCSharp.pdb
+C:\Users\MikeR\Dropbox\Github Projects\DocuMakerC#\DocuMakerCSharp\DocuMakerCSharp\obj\Debug\DocuMakerCSharp.csprojResolveAssemblyReference.cache
+C:\Users\MikeR\Dropbox\Github Projects\DocuMakerC#\DocuMakerCSharp\DocuMakerCSharp\obj\Debug\DocuMakerCSharp.exe
+C:\Users\MikeR\Dropbox\Github Projects\DocuMakerC#\DocuMakerCSharp\DocuMakerCSharp\obj\Debug\DocuMakerCSharp.pdb
